@@ -1,0 +1,5 @@
+pywin32==311
+pypdf==6.6.2
+pyinstaller==6.19.0
+pyinstaller-hooks-contrib==2026.10
+PyMuPDF==1.26.7

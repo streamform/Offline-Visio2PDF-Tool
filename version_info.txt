@@ -1,0 +1,31 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        '080404b0',
+        [
+          StringStruct('CompanyName', '乐乐'),
+          StringStruct('FileDescription', 'Visio 转 PDF 工具'),
+          StringStruct('FileVersion', '1.0.0'),
+          StringStruct('InternalName', 'VisioToPDF'),
+          StringStruct('LegalCopyright', '作者：乐乐'),
+          StringStruct('OriginalFilename', 'Visio转PDF.exe'),
+          StringStruct('ProductName', 'Visio 转 PDF 工具'),
+          StringStruct('ProductVersion', '1.0.0')
+        ]
+      )
+    ]),
+    VarFileInfo([VarStruct('Translation', [2052, 1200])])
+  ]
+)
