@@ -1,4 +1,4 @@
-# Visio 转 PDF 工具
+# 离线Visio 转 PDF 工具
 
 # 下载源文件自己编译前请先将环境runtime.7z解压到脚本一起
 
